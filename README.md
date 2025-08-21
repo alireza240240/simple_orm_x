@@ -79,3 +79,10 @@ print(fetched.name)  # Ali
 
 ```
 
+---
+
+## 📊 Test Coverage
+
+For detailed coverage report, see [COVERAGE.md](COVERAGE.md).
+
+
