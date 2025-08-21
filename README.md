@@ -35,7 +35,7 @@ It allows you to define database tables using Python classes and fields, without
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/myorm.git
+git clone https://github.com/alireza240240/simple_orm_x.git
 cd myorm
 ```
 
